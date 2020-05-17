@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/husweb/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/husweb/static/js/main.37d3b651.chunk.js",
-    "main.js.map": "/husweb/static/js/main.37d3b651.chunk.js.map",
+    "main.js": "/husweb/static/js/main.fb306fbe.chunk.js",
+    "main.js.map": "/husweb/static/js/main.fb306fbe.chunk.js.map",
     "runtime-main.js": "/husweb/static/js/runtime-main.0a90d7dd.js",
     "runtime-main.js.map": "/husweb/static/js/runtime-main.0a90d7dd.js.map",
     "static/js/2.d0eb04a5.chunk.js": "/husweb/static/js/2.d0eb04a5.chunk.js",
     "static/js/2.d0eb04a5.chunk.js.map": "/husweb/static/js/2.d0eb04a5.chunk.js.map",
     "index.html": "/husweb/index.html",
-    "precache-manifest.dab6047c8b66a1dd4c3aa3f74c6888d0.js": "/husweb/precache-manifest.dab6047c8b66a1dd4c3aa3f74c6888d0.js",
+    "precache-manifest.9b4e8b77a33b458d494d1d6da9363501.js": "/husweb/precache-manifest.9b4e8b77a33b458d494d1d6da9363501.js",
     "service-worker.js": "/husweb/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/husweb/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.d0eb04a5.chunk.js.LICENSE.txt": "/husweb/static/js/2.d0eb04a5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0a90d7dd.js",
     "static/js/2.d0eb04a5.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.37d3b651.chunk.js"
+    "static/js/main.fb306fbe.chunk.js"
   ]
 }
