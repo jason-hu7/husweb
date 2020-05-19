@@ -37,6 +37,29 @@ export default class Projects extends Component {
             </p>
           </div>
         </div>
+        <div className="portfolio-card">
+          <div className="card-front-planner">
+            <h3>Analyzing Fractures With Time-Lapse Resistivity Data</h3>
+            <ul>
+              <li>
+                <a
+                  href="https://www.onepetro.org/conference-paper/SPE-196144-MS"
+                  target="_blank"
+                  className="links"
+                >
+                  Publication
+                </a>
+              </li>
+            </ul>
+            <img
+              src={process.env.PUBLIC_URL + "/assets/ms_thesis.png"}
+              className="portfolio-card"
+            />
+            <p style={{ fontSize: 16, marginTop: "0vh" }}>
+              Society of Petroleum Engineers International Student Paper Contest 2nd Place
+            </p>
+          </div>
+        </div>
       </div>
     );
   }
