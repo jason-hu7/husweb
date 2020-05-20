@@ -69,7 +69,7 @@ export default class Projects extends Component {
         <div className="portfolio-card">
           <div className="card-front-planner">
             <h3>
-              Appliance-specific power usage classification and disaggregation
+              Appliance-Specific Power Usage Classification and Disaggregation
             </h3>
             <ul>
               <li>
