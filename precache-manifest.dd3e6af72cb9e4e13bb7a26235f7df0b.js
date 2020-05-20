@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a98f13473b546661be8892c0a447d0c4",
+    "revision": "49e59803174097540ac8730904d15ce6",
     "url": "/husweb/index.html"
   },
   {
-    "revision": "0f92dc840f6412232bf9",
+    "revision": "a9424f91ba3ccc863fd2",
     "url": "/husweb/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "ede30bc0f1cfe9c13a41",
-    "url": "/husweb/static/js/2.d0eb04a5.chunk.js"
+    "revision": "0e5818ce57eef83d4877",
+    "url": "/husweb/static/js/2.40d53956.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/husweb/static/js/2.d0eb04a5.chunk.js.LICENSE.txt"
+    "url": "/husweb/static/js/2.40d53956.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f92dc840f6412232bf9",
-    "url": "/husweb/static/js/main.fb306fbe.chunk.js"
+    "revision": "a9424f91ba3ccc863fd2",
+    "url": "/husweb/static/js/main.5377d24b.chunk.js"
   },
   {
     "revision": "299026cdd99fe088ee90",
