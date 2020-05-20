@@ -9,6 +9,7 @@ export default class About extends Component {
           <img
             src={process.env.PUBLIC_URL + "/assets/jason-cusco.jpg"}
             className="hu"
+            alt="jason cusco"
           />
           <p>Hi there! I am a data scientist and machine learning engineer</p>
           <p>I know Python, C++, JavaScript, PyTorch, SQL, Bash and Git</p>
