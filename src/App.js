@@ -3,6 +3,7 @@ import Landing from './components/landing';
 import About from './components/about';
 import Projects from './components/projects';
 import Footer from './components/footer';
+import BlogOverview from './components/strava-dash'
 
 class App extends React.Component {
   render() {
@@ -12,6 +13,7 @@ class App extends React.Component {
         <About />
         <Projects />
         <Footer />
+        <BlogOverview />
       </div>
     );
   }
