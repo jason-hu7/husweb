@@ -47,12 +47,6 @@ a {
   color: white;
 }
 
-.hu {
-  width: 50vw;
-  max-width: 280px;
-  border-radius: 100%;
-}
-
 .button {
   width: 2.5em;
   padding: 0 0.5em 0.06em 0.5em;
@@ -106,6 +100,7 @@ a {
     color: rgba(89, 89, 89, 0.2);
   }
 }
+
 .content {
   width: 100%;
   display: table-cell;
@@ -125,6 +120,7 @@ a {
     opacity: 100;
   }
 }
+
 .header {
   height: 100vh;
   width: 100%;
@@ -142,8 +138,61 @@ a {
   display: table;
 }
 
-.me > div {
+.skills {
+  height: auto;
+  width: 100%;
+  padding: 6vh 0 6vh 0;
+  background-color: #755f5f;
+  color: white;
+  display: table;
+}
+
+/* .me > div {
   padding: 0 4vw 0 4vw;
+} */
+
+/* split screens */
+.twosplits {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  display: grid;
+  grid-template-columns: 40% auto;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+.left-half {
+  grid-column:1;
+}
+
+.right-half {
+  grid-column:2;
+  padding-right: 100px;
+}
+
+.threesplits {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+.left-third {
+  grid-column:1;
+}
+
+.mid-third {
+  grid-column:2;
+}
+
+.right-third {
+  grid-column:3;
+  padding-right: 50px;
 }
 
 .portfolio {
@@ -212,3 +261,17 @@ li {
   float:right;
   text-align:right;
 }
+
+/* images */
+.hu {
+  /* position: absolute; */
+  width: 50vw;
+  max-width: 400px;
+  border-radius: 100%;
+}
+
+/* text */
+.redText 
+{ 
+    color: rgba(255, 0, 0, 0.561); 
+} 
