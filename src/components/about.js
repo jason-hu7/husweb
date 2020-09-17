@@ -23,8 +23,8 @@ export default class About extends Component {
               quality lunch time with my software engineer colleagues :)
             </p>
             <p>
-              I hold a bachelor's degree in Petroleum Engineering from the
-              <span className="redText">University of Houston</span> and a
+              I hold a bachelor's degree in Petroleum Engineering from the 
+              <span className="redText"> University of Houston</span> and a
               master's degree in energy resources engineering from{" "}
               <span className="redText">Stanford University</span>. I developed
               a passion for data science and computer science while studying at
