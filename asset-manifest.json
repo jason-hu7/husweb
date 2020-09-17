@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/husweb/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/husweb/static/js/main.5377d24b.chunk.js",
-    "main.js.map": "/husweb/static/js/main.5377d24b.chunk.js.map",
-    "runtime-main.js": "/husweb/static/js/runtime-main.0a90d7dd.js",
-    "runtime-main.js.map": "/husweb/static/js/runtime-main.0a90d7dd.js.map",
-    "static/js/2.40d53956.chunk.js": "/husweb/static/js/2.40d53956.chunk.js",
-    "static/js/2.40d53956.chunk.js.map": "/husweb/static/js/2.40d53956.chunk.js.map",
+    "main.js": "/husweb/static/js/main.17ea438a.chunk.js",
+    "main.js.map": "/husweb/static/js/main.17ea438a.chunk.js.map",
+    "runtime-main.js": "/husweb/static/js/runtime-main.06c90a2f.js",
+    "runtime-main.js.map": "/husweb/static/js/runtime-main.06c90a2f.js.map",
+    "static/js/2.aec87eee.chunk.js": "/husweb/static/js/2.aec87eee.chunk.js",
+    "static/js/2.aec87eee.chunk.js.map": "/husweb/static/js/2.aec87eee.chunk.js.map",
     "index.html": "/husweb/index.html",
-    "precache-manifest.dd3e6af72cb9e4e13bb7a26235f7df0b.js": "/husweb/precache-manifest.dd3e6af72cb9e4e13bb7a26235f7df0b.js",
+    "precache-manifest.ca7ae4fc4db1a7ef4205170d23c7076b.js": "/husweb/precache-manifest.ca7ae4fc4db1a7ef4205170d23c7076b.js",
     "service-worker.js": "/husweb/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/husweb/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.40d53956.chunk.js.LICENSE.txt": "/husweb/static/js/2.40d53956.chunk.js.LICENSE.txt"
+    "static/js/2.aec87eee.chunk.js.LICENSE.txt": "/husweb/static/js/2.aec87eee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a90d7dd.js",
-    "static/js/2.40d53956.chunk.js",
+    "static/js/runtime-main.06c90a2f.js",
+    "static/js/2.aec87eee.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5377d24b.chunk.js"
+    "static/js/main.17ea438a.chunk.js"
   ]
 }
