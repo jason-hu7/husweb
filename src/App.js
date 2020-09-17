@@ -1,9 +1,11 @@
 import React from "react";
 import Landing from './components/landing';
 import About from './components/about';
+import TechSkills from './components/technical-skills'
+import Hobbies from './components/hobbies';
 import Projects from './components/projects';
 import Footer from './components/footer';
-import BlogOverview from './components/strava-dash'
+// import BlogOverview from './components/strava-dash'
 
 class App extends React.Component {
   render() {
@@ -11,9 +13,11 @@ class App extends React.Component {
       <div className="App">
         <Landing />
         <About />
+        <TechSkills />
+        {/* <Hobbies /> */}
         <Projects />
         <Footer />
-        <BlogOverview />
+        {/* <BlogOverview /> */}
       </div>
     );
   }
