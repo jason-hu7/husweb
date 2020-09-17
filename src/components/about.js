@@ -38,6 +38,10 @@ export default class About extends Component {
               on projects in sectors including renewable energy, utility,
               defense and oil&gas.
             </p>
+            <p>
+              I speak English and 中文 with bilingual proficiency. Estudio español pero comprendo 
+              principalmente las comidas y las canciones.
+            </p>
           </div>
         </div>
         <p>
