@@ -287,6 +287,12 @@ li {
   text-align:right;
 }
 
+.portfolio-annot {
+  font-size: 0.em;
+  margin-top: "0vh";
+  color: #fcfcfc;
+}
+
 /* images */
 .hu {
   /* position: absolute; */

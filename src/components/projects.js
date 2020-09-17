@@ -35,7 +35,7 @@ export default class Projects extends Component {
               className="portfolio-card"
               alt="pix2pix"
             />
-            <p style={{ fontSize: 16, marginTop: "0vh" }}>
+            <p className="portfolio-annot">
               Best deep learning project in Stanford CS230 2018 Spring
             </p>
           </div>
@@ -60,7 +60,7 @@ export default class Projects extends Component {
               className="portfolio-card"
               alt="fracturing sim"
             />
-            <p style={{ fontSize: 16, marginTop: "0vh" }}>
+            <p className="portfolio-annot">
               Society of Petroleum Engineers International Student Paper Contest
               2nd Place
             </p>

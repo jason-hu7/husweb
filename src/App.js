@@ -14,7 +14,7 @@ class App extends React.Component {
         <Landing />
         <About />
         <TechSkills />
-        {/* <Hobbies /> */}
+        <Hobbies />
         <Projects />
         <Footer />
         {/* <BlogOverview /> */}
