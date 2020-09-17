@@ -270,9 +270,15 @@ a {
   margin-top: 0vh;
   margin-bottom: 2vh;
   width:80%;
+  font-weight: bold;
   height:10px;
   padding:10px 10px;
-  color:#595959;
+  color:#fcfcfc;
+}
+
+.inline-links {
+  font-weight: bold;
+  color:#E3B778;
 }
 
 li {
