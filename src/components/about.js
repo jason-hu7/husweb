@@ -18,9 +18,9 @@ export default class About extends Component {
               Hi there! I am a data scientist with background in energy and B2B.
               While my bread and butter is machine learning & deep learning, I
               am also a competant software engineer that is fluent in modern
-              development tools. Though never majored in computer science, I did
-              pick up a concept or two via code reviews and quality lunch time
-              with my software engineer colleagues :)
+              development tools. Though never majored in computer science, I
+              picked up a concept or two via online articles, code reviews and
+              quality lunch time with my software engineer colleagues :)
             </p>
             <p>
               I hold a bachelor's degree in Petroleum Engineering from the
