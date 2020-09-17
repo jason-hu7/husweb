@@ -7,30 +7,44 @@ export default class TechSkills extends Component {
         <h2 style={{ marginBottom: "2vh" }}>Technical Skills</h2>
         <div className="threesplits">
           <div className="left-third">
-            <h2>Software Engineering</h2>
+            <h3>Software Engineering</h3>
             <dl>
               <dt>Languages</dt>
-              <dd>Python, C++, JavaScript, MATLAB, SQL, HTML, CSS</dd>
-              <dt>Web Frameworks</dt>
-              <dd>React, Flask</dd>
+              <dd className="skillText">
+                Python, C++, JavaScript, MATLAB, SQL, HTML, CSS
+              </dd>
+              <dt>Frameworks</dt>
+              <dd className="skillText">React, Flask, Spark</dd>
               <dt>Tools</dt>
-              <dd>Git, Bash, SamIam, MongoDB</dd>
+              <dd className="skillText">
+                Git, Bash, Vim (I love Vim, and I hate Vim), tmux, MongoDB, AWS,
+                Google Cloud
+              </dd>
             </dl>
           </div>
           <div className="mid-third">
-            <h2>Data Science</h2>
+            <h3>Data Science</h3>
             <dl>
               <dt>Deep Learning Frameworks</dt>
-              <dd>PyTorch (preferred), Tensorflow (only when have to)</dd>
-              <dt>Specialization</dt>
-              <dd>Computer vision, anomaly detection, time-series analysis</dd>
+              <dd className="skillText">
+                PyTorch (preferred), Tensorflow (only when have to)
+              </dd>
+              <dt>Specializations</dt>
+              <dd className="skillText">
+                Computer vision, anomaly detection, time-series analysis,
+                geospatial analysis
+              </dd>
             </dl>
           </div>
           <div className="right-third">
-            <h2>Domain-Specific</h2>
+            <h3>Domain-Specific</h3>
             <dl>
-              <dt>Domain Knowledge</dt>
-              <dd>Energy, utility, and rotating equipment</dd>
+              <dt>Energy</dt>
+              <dd className="skillText">
+                Renewable energy, oil & gas, utility
+              </dd>
+              <dt>Industrial Equipment</dt>
+              <dd className="skillText">Generator, pump, compressor</dd>
             </dl>
           </div>
         </div>
