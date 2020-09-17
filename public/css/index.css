@@ -28,6 +28,9 @@ h3 {
   -webkit-text-fill-color: transparent;
 }
 
+dt, dd {margin-top: 10px; }
+dt { clear: both; }
+
 #email {
   background: -webkit-linear-gradient(left, #f58d47, #f5827a);
   -webkit-background-clip: text;
@@ -184,14 +187,21 @@ a {
 
 .left-third {
   grid-column:1;
+  text-align: left;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .mid-third {
   grid-column:2;
+  text-align: left;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .right-third {
   grid-column:3;
+  text-align: left;
   padding-right: 50px;
 }
 
@@ -271,7 +281,17 @@ li {
 }
 
 /* text */
-.redText 
-{ 
-    color: rgba(255, 0, 0, 0.561); 
-} 
+.redText { 
+  color: rgba(255, 0, 0, 0.561); 
+}
+
+/* .skillTopic {
+  font-size: 1em;
+  color: rgba(202, 202, 202, 0.801);
+} */
+
+.skillText {
+  font-size: 0.75em;
+  color: rgba(202, 202, 202, 0.801);
+}
+
