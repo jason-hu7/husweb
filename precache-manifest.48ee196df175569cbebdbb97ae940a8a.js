@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c15b4bf7ecc214be60548cdba845a48",
+    "revision": "456ed6190c9905352ecca4094c18ab3b",
     "url": "/husweb/index.html"
   },
   {
-    "revision": "d1e9d0e9fec1363f422e",
+    "revision": "97b8ca7780b8c9c8160c",
     "url": "/husweb/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/husweb/static/js/2.aec87eee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1e9d0e9fec1363f422e",
-    "url": "/husweb/static/js/main.17ea438a.chunk.js"
+    "revision": "97b8ca7780b8c9c8160c",
+    "url": "/husweb/static/js/main.eeb7c79d.chunk.js"
   },
   {
     "revision": "3223b39939545f0594f6",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/husweb/precache-manifest.ca7ae4fc4db1a7ef4205170d23c7076b.js"
+  "/husweb/precache-manifest.48ee196df175569cbebdbb97ae940a8a.js"
 );
 
 self.addEventListener('message', (event) => {
