@@ -45,7 +45,7 @@ export default class Hobbies extends Component {
             <img src={process.env.PUBLIC_URL + "/assets/cycling.jpg"} alt="biking with ben"/>
           </div>
           <div className="column">
-            <img src={process.env.PUBLIC_URL + "/assets/fam.jpg"} alt="my fam"/>
+            <img src={process.env.PUBLIC_URL + "/assets/family.jpg"} alt="my fam"/>
             <img src={process.env.PUBLIC_URL + "/assets/motorcycle.jpg"} alt="motorcycle"/>
           </div>
         </div>
