@@ -17,7 +17,7 @@ export default class TechSkills extends Component {
                             <dd className="skillText">React, VueJs, Flask</dd>
                             <dt>Tools</dt>
                             <dd className="skillText">
-                                Git, Bash, Vim, tmux, Kubernetes, RabbitMQ
+                                Git, Bash, Vim, tmux, Docker, Kubernetes, RabbitMQ
                             </dd>
                             <dt>Platforms</dt>
                             <dd className="skillText">
